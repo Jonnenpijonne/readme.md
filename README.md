@@ -1,4 +1,4 @@
- About
+# About Me:
 
 I am an IT Specialist working at the intersection of technology, users, and operational processes. I bring hands-on experience from both public sector and private industry environments, where reliability, accuracy, and accountability are critical.
 
